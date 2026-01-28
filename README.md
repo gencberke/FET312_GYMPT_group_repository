@@ -1,7 +1,8 @@
 # GYMPT - Görsel Besin Kalori Analizi ve Diyetisyen Yapay Zeka
 
 > **FET312 Derin Öğrenme Dersi Grup Projesi**  
-> İstanbul Topkapı Üniversitesi - 2024/2025
+> İstanbul Topkapı Üniversitesi - 2024/2025 <br
+> [Proje sunum videosu linki](https://youtu.be/NrJmkyfn4Ho?si=525Gt_dv1v6iEnFe)
 
 ## 📋 Proje Özeti
 
